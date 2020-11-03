@@ -2,6 +2,7 @@
 
 ## Wie geht es?
 
+* null
 * eins
 * zwei
 * drei
