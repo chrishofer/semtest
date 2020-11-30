@@ -7,3 +7,6 @@
 * zwei
 * drei
 * vier
+* fuenf
+* sechs
+* sieben
